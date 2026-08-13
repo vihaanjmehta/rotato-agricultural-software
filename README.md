@@ -43,3 +43,6 @@ npm run preview
 3. Optionally exclude crops and choose a baseline rotation for comparison.
 4. Hit **Compute rotation** — all three strategies solve in ~50 ms.
 5. Inspect the results: rankings, charts, soil state evolution, and the full math behind every number.
+
+
+Thank you!
